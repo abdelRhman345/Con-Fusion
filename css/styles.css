@@ -40,7 +40,7 @@ body {
 .modal-header {
   background-color: #512DA8;
   color: #ddd; }
-  .modal-header button span {
+  .modal-header button {
     color: #ddd; }
 
 .modal-body,
